@@ -1,0 +1,4 @@
+FILE: logs.txt
+LEVEL: DEBUG
+MAX-SIZE: 1024
+FORMAT: [%s][%s] %s%n
