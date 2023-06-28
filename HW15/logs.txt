@@ -1,0 +1,6 @@
+[27.06.2023-12:23][DEBUG] Message: Debug log message
+[27.06.2023-12:23][INFO] Message: Info log message
+[27.06.2023-12:23][DEBUG] Message: Debug log message
+[27.06.2023-12:23][INFO] Message: Info log message
+[2023-06-28 13:39:21][DEBUG] Debug message
+[2023-06-28 13:39:21][INFO] Info message
