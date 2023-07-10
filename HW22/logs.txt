@@ -1,0 +1,18 @@
+[27.06.2023-12:23][DEBUG] Message: Debug log message
+[27.06.2023-12:23][INFO] Message: Info log message
+[27.06.2023-12:23][DEBUG] Message: Debug log message
+[27.06.2023-12:23][INFO] Message: Info log message
+[2023-06-28 13:39:21][DEBUG] Debug message
+[2023-06-28 13:39:21][INFO] Info message
+[2023-07-10 18:38:08][DEBUG] Debug message
+[2023-07-10 18:38:08][INFO] Info message
+[2023-07-10 18:38:52][DEBUG] Debug message
+[2023-07-10 18:38:52][INFO] Info message
+[2023-07-10 18:39:03][DEBUG] Debug message
+[2023-07-10 18:39:03][INFO] Info message
+[2023-07-10 18:39:43][DEBUG] Debug message
+[2023-07-10 18:39:43][INFO] Info message
+[2023-07-10 18:41:47][DEBUG] Debug message
+[2023-07-10 18:41:47][INFO] Info message
+[2023-07-10 18:45:50][DEBUG] Debug message
+[2023-07-10 18:45:50][INFO] Info message
